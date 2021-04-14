@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.JOKES" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:statusBarColor">@color/orange</item>
+
+    </style>
+
+    <style name="ProgressBar">
+
+        <item name="colorAccent">@color/orange</item>
+
+    </style>
+</resources>
